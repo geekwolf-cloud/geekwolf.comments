@@ -1,4 +1,4 @@
-<h2>MIT Licence</h2>h2>
+<h2>MIT Licence</h2>
 
 **Copyright &copy; 2024 Twan van Beers, GeekWolf**
 
